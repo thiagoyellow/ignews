@@ -18,7 +18,7 @@
   </a>
 
   <a href="https://github.com/thiagoyellow/ignews/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thiago/ignews">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thiagoyellow/ignews">
   </a>
 
   <img alt="License" src="https://img.shields.io/github/license/thiagoyellow/ignews">
