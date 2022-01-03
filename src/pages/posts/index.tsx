@@ -43,6 +43,8 @@ export default function Posts({ posts }: PostsProps ) {
     );
 }
 
+console.log(Posts);
+
 export const getStaticProps: GetStaticProps = async () => {
     const prismic = getPrismicClient()
 
