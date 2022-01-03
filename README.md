@@ -50,10 +50,8 @@ As postagens são feitas pelo painel do Prismic CMS e integradas diretamente pel
 
 ## :framed_picture: Imagens ##
 
-<h3>Em breve</h3>
-
 <h1 align="center">
-    <img alt = "Web app" src = "./.github/video.gif" width = "500px" />
+    <img alt = "Web app" src = "./.github/video.gif" width = "1000px" />
 </h1>
 
 
