@@ -48,7 +48,7 @@ Essa é uma aplicação Serverless, ou seja, todo o processo que dependeria de u
 <br>
 As postagens são feitas pelo painel do Prismic CMS e integradas diretamente pelo front.
 
-## :framed_picture: Imagens ##
+## :framed_picture: Aplicação em funcionamento ##
 
 <h1 align="center">
     <img alt = "Web app" src = "./.github/video.gif" width = "1000px" />
