@@ -17,11 +17,11 @@
     <img alt="Made by Thiago" src="https://img.shields.io/badge/made%20by-thiago-%237519C1">
   </a>
 
-  <!-- <a href="https://github.com/khalleb/ignews/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/khalleb/ignews">
-  </a> -->
+  <a href="https://github.com/thiagoyellow/ignews/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thiago/ignews">
+  </a>
 
-  <!-- <img alt="License" src="https://img.shields.io/github/license/khalleb/ignews"> -->
+  <img alt="License" src="https://img.shields.io/github/license/thiagoyellow/ignews">
 </p>
 
 ---
@@ -38,8 +38,8 @@
 
 ## :dart: Sobre ##
 
-O projeto ig.news é um blog onde os usuários podem ter acesso ao conteúdo de cada postagem de acordo com o status de sua assinatura.<br>
-O blog possui um sistema de compra integrado com o STRIPE, e após o usuário realizar o pagamento, sua inscrição estará ativa e pronta para visualizar o conteúdo completo
+<p> O projeto ig.news é um blog onde os usuários podem ter acesso ao conteúdo de cada postagem de acordo com o status de sua assinatura.<br><br>
+<p> O blog possui um sistema de compra integrado com o STRIPE, e após o usuário realizar o pagamento, sua inscrição estará ativa e pronta para visualizar o conteúdo completo
 de todo o blog. Caso o usuário não deseje optar pela assinatura, ele terá acesso limitado ao conteúdo das postagens. E todos os dados necessários para se fazer verificações
 de assinaturas ou dados dos usuários, estão salvos no banco de dados FaunaDB.
 <br>
