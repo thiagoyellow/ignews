@@ -38,7 +38,11 @@
 
 ## :dart: Sobre ##
 
+<<<<<<< HEAD
 <p> O projeto ig.news é um blog onde os usuários podem ter acesso ao conteúdo de cada postagem de acordo com o status de sua assinatura.<br>
+=======
+<p> O projeto ig.news é um blog onde os usuários podem ter acesso ao conteúdo de cada postagem de acordo com o status de sua assinatura.<br><br>
+>>>>>>> 491a0b61b9604748ed2b2d9a5ecc8a567d8374c8
 <p> O blog possui um sistema de compra integrado com o STRIPE, e após o usuário realizar o pagamento, sua inscrição estará ativa e pronta para visualizar o conteúdo completo
 de todo o blog. Caso o usuário não deseje optar pela assinatura, ele terá acesso limitado ao conteúdo das postagens. E todos os dados necessários para se fazer verificações
 de assinaturas ou dados dos usuários, estão salvos no banco de dados FaunaDB.
@@ -48,6 +52,7 @@ Essa é uma aplicação Serverless, ou seja, todo o processo que dependeria de u
 <br>
 As postagens são feitas pelo painel do Prismic CMS e integradas diretamente pelo front.
 
+<<<<<<< HEAD
 ## :framed_picture: Imagens ##
 
 <h1 align="center">
@@ -58,6 +63,8 @@ As postagens são feitas pelo painel do Prismic CMS e integradas diretamente pel
 </h1>
 
 
+=======
+>>>>>>> 491a0b61b9604748ed2b2d9a5ecc8a567d8374c8
 
 ## :rocket: Tecnologias ##
 
@@ -90,6 +97,17 @@ $ yarn dev
 
 # The server will initialize in the <http://localhost:3000>
 ```
+<<<<<<< HEAD
+=======
+## :framed_picture: Imagens ##
+
+<h1 align="center">
+    <img alt = "Web app" src = "./.github/image-01.png" width = "500px" />
+    <img alt = "Web app" src = "./.github/image-02.png" width = "500px" />
+    <img alt = "Web app" src = "./.github/image-03.png" width = "500px" />
+    <img alt = "Web app" src = "./.github/image-04.png" width = "500px" />
+</h1>
+>>>>>>> 491a0b61b9604748ed2b2d9a5ecc8a567d8374c8
 
 
 
